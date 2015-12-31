@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Problem 0014 Project Euler
+Problem 0015 Project Euler
 Lattice paths
 
 
