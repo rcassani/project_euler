@@ -154,7 +154,7 @@ for i_level in range(1, n_levels):
 
 # Find Maximum sum
 i_max = np.argmax(triang[n_levels - 1,:])
-print('Final results')
+print('\r\nFinal results')
 print(triang[n_levels - 1, :])
 print(routes[n_levels - 1][:])
 print('\r\nLargest sum')
